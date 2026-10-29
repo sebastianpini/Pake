@@ -16,5 +16,10 @@
   },
   "build": {
     "frontendDist": "../dist"
+  },
+  "plugins": {
+    "shell": {
+      "open": "^((mailto:\\w+)|(tel:\\w+)|(https?://\\w+)|(ninjarmm://)).+"
+    }
   }
 }
