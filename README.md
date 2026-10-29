@@ -1,3 +1,9 @@
+> **Fork notice / Hinweis zum Fork**
+>
+> **EN:** This is a personal fork of [tw93/Pake](https://github.com/tw93/Pake) for NinjaOne users. It adds one thing: NinjaOne Remote sessions can start NCPlayer from inside a Pake desktop app (`ninjarmm://` links are handed to the OS). No pull request to upstream is planned. Not an official NinjaOne feature but a workaround, provided "as is" without warranty, liability, or official support. Details and build steps: [docs/ninjarmm-ncplayer.md](docs/ninjarmm-ncplayer.md).
+>
+> **DE:** Persönlicher Fork von [tw93/Pake](https://github.com/tw93/Pake) für NinjaOne-Nutzer. Er ergänzt eine Sache: NinjaOne-Remote-Sitzungen können den NCPlayer aus einer Pake-Desktop-App heraus starten (`ninjarmm://`-Links werden ans Betriebssystem weitergegeben). Ein Pull Request an das Original ist nicht geplant. Kein offizielles NinjaOne-Feature, sondern ein Workaround, bereitgestellt "as is", ohne Gewährleistung, Haftung oder offiziellen Support. Details und Bauanleitung: [docs/ninjarmm-ncplayer.md](docs/ninjarmm-ncplayer.md).
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/tw93/Pake/36acc2bc6b7d522ff24da7f3af3f9581d4d973f6/assets/logo.png" width="138" />
   <h1>Pake</h1>
